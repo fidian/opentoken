@@ -1,0 +1,8 @@
+{
+    "skipTitles": [
+        "Slashdot",
+        "Search Slashdot"
+    ],
+    "template": "template.txt",
+    "url": "http://rss.slashdot.org/Slashdot/slashdotMain"
+}
